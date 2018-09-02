@@ -9,7 +9,6 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <time.h>
-#include <cstring>
 
 extern const char* FilePath;
 extern const char* ErrorPath;
